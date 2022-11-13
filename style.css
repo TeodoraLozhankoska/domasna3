@@ -1,0 +1,33 @@
+#zajak{
+    width: 5%;
+    height: 10%;
+    position: absolute;
+    top:50%
+}
+#zhelka{
+    width: 5%;
+    height: 10%;
+    position: absolute;
+    top:70%
+}
+h1{
+    font-family: Arial, sans-serif;
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+    color: blueviolet;
+}
+
+.trka{
+    position: absolute;
+    top:50%;
+    width: 75%;
+    margin-left: 15%;
+}
+
+#Kopche{
+    background-color:blueviolet;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    padding: 5px;
+}
